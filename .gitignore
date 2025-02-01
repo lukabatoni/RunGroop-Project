@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files
+.vs/
+bin/
+obj/
+TestResults/
+**/*.user
+**/*.suo
+**/*.cache
+**/*.log
+**/*.pdb
+**/*.dll
+**/*.exe
+
+# Ignore dependency folders
+node_modules/
+packages/
